@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
-  "sort-albums-by": "title",
-  "sort-media-by": "filename",
+  "title": "Photo of the Week",
+  "sort-albums-by": "title desc",
+  "sort-media-by": "filename desc",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Giancarlo David",
   "usage-stats": false
 }
